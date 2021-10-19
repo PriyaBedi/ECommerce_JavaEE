@@ -3,12 +3,14 @@
 This is an E-commerce web application(university level) created using Hibernate and Spring Framework in Java. 
 
 Why E-Commerce?
+
   -Main aim of this assignment is examination of doing business online and setting up online shops. To research furthermore, importance of online shops/e-commerce in 
    today’s world.
   -Development of e-commerce has made major differences in the adoption of new technologies. New technologies have influenced thousands of entrepreneurs to set up
    online businesses.
 
 Main Objectives of Project:
+
   -To provide information about various products in a different category. 
   -Customer can log in and get detailed information about products and can purchase a suitable product with price and quality comparison.
   -Create your own shopping basket and check-out mechanism in JAVA 
@@ -18,6 +20,7 @@ Main Objectives of Project:
   -New markets - The Internet expands the reach of entrepreneurship to new geographical locations.
 
 SDLC - Agile Methodology:
+
   -Agile SDLC methodology is based on collaborative decision making between requirements and solutions teams, and a cyclical, iterative progression of producing 
    working software. 
   -Work is done in regularly iterated cycles, known as sprints, that usually last two to four weeks	
